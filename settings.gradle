@@ -2,3 +2,6 @@ rootProject.name = 'praktika'
 include 'eurekaClient'
 include 'eurekaServer'
 include 're'
+include 'jwtApp'
+include 'jwtApp'
+
